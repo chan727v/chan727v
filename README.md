@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **chan727v/chan727v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Code%20Roman&fontSize=90)
 
-
+<hr />
