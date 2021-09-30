@@ -67,4 +67,5 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px; width:150px; height:35px;"/> <!--Instagram-->
 </a>
 
-<hr />
+     
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90)
