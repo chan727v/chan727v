@@ -30,5 +30,6 @@ Tech Stach
 <div>
 My Hobby
 </div>
+<hr />
 
 <img src="https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=Netflix&logoColor=white"/></a> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
