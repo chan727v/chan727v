@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 <hr />
 
-<div style="height : 50px;">
-Tech Stach
-</div>
+<h3>Tech Stach<h3/>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <!--HTML-->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <!--CSS-->
@@ -37,11 +35,14 @@ Tech Stach
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <!--Photoshop-->
 
 <hr />
+     
+<h3>Want Learn<h3/>
 
-<div>
-My Hobby
-</div>
-
+<img src="https://img.shields.io/badge/Adobe React-61DAFB?style=flat-square&logo=Adobe React&logoColor=white"/>
+     
+<hr />
+     
+<h4>My Hobby<h4/>
 
 <a href="https://www.netflix.com/kr/">
 <img src="https://img.shields.io/badge/Netflix-E50914?style=flat&logo=Netflix&logoColor=white" 
@@ -52,17 +53,13 @@ My Hobby
      style="height : auto; margin-left : 10px; margin-right : 10px; width:110px; height:33px;"/></a> <!--YouTube-->
 <hr />
 
-<div>
-My Stats
-</div>
+<h4>My Stats<h4/>
 
 ![chan727v's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan727v&show_icons=true&theme=midnight-purple) <!--Stats-->
 
 <hr />
 
-<div>
-Another Page
-</div>
+<h4>Another Page<h4/>
 
 <a href="https://www.instagram.com/93_roman/">
     <img 
