@@ -34,3 +34,5 @@ My Hobby
 
 <img src="https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=Netflix&logoColor=white"/></a> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 <hr />
+
+![chan727v's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan727v&show_icons=true&theme=midnight-purple)
