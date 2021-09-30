@@ -34,11 +34,10 @@ Here are some ideas to get you started:
 <br />
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <!--Photoshop-->
 
-<hr />
      
-<h3>Want Learn<h3/>
+<h4>Want Learn<h4/>
 
-<img src="https://img.shields.io/badge/Adobe React-61DAFB?style=flat-square&logo=Adobe React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
      
 <hr />
      
