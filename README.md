@@ -52,6 +52,6 @@ Another Page
 
 <a href="https://www.instagram.com/93_roman/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/93_roman/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/93_roman/&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px; width:150px; height:38px;"/>
 </a>
