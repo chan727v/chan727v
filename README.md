@@ -41,20 +41,21 @@ Here are some ideas to get you started:
      
 <hr />
      
+<h4>My Stats<h4/>
+
+![chan727v's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan727v&show_icons=true&theme=midnight-purple) <!--Stats-->
+
+<hr />
+
 <h4>My Hobby<h4/>
 
 <a href="https://www.netflix.com/kr/">
 <img src="https://img.shields.io/badge/Netflix-E50914?style=flat&logo=Netflix&logoColor=white" 
-     style="height : auto; margin-left : 10px; margin-right : 10px; width:110px; height:33px;"/></a> <!--Netflix-->
-     
+     style="height : auto; margin-left : 10px; margin-right : 10px; width:210px; height:60px;"/></a> <!--Netflix-->
+
 <a href="https://www.youtube.com/">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" 
-     style="height : auto; margin-left : 10px; margin-right : 10px; width:110px; height:33px;"/></a> <!--YouTube-->
-<hr />
-
-<h4>My Stats<h4/>
-
-![chan727v's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan727v&show_icons=true&theme=midnight-purple) <!--Stats-->
+     style="height : auto; margin-left : 10px; margin-right : 10px; width:210px; height:60px;"/></a> <!--YouTube-->
 
 <hr />
 
