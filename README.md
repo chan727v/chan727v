@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <div>
 Tech Stach
 </div>
-<img src="https://img.shields.io/badge/AdBlock-#F40D12?style=flat-square&logo=Java&logoColor=white"/>
+
 <hr />
