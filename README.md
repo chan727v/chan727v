@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=My%20_Flexibility&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=My%20_Flexibility&fontSize=80)
 
 <hr />
 
@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 </a>
 
      
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=90)
