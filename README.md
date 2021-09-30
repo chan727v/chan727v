@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=My%20_Flexibility&fontSize=90)
 
+<hr />
 
-<div>
+<div style="height : 50px;">
 Tech Stach
 </div>
-
-<hr />
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <!--HTML-->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <!--CSS-->
@@ -37,11 +36,13 @@ Tech Stach
 <br />
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <!--Photoshop-->
 
+<hr />
+
 <div>
 My Hobby
 </div>
 
-<hr />
+
 <a href="https://www.netflix.com/kr/">
 <img src="https://img.shields.io/badge/Netflix-E50914?style=flat&logo=Netflix&logoColor=white" 
      style="height : auto; margin-left : 10px; margin-right : 10px; width:110px; height:33px;"/></a> <!--Netflix-->
@@ -49,24 +50,24 @@ My Hobby
 <a href="https://www.youtube.com/">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" 
      style="height : auto; margin-left : 10px; margin-right : 10px; width:110px; height:33px;"/></a> <!--YouTube-->
-
+<hr />
 
 <div>
 My Stats
 </div>
 
-<hr />
-
 ![chan727v's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan727v&show_icons=true&theme=midnight-purple) <!--Stats-->
+
+<hr />
 
 <div>
 Another Page
 </div>
-
-<hr />
 
 <a href="https://www.instagram.com/93_roman/">
     <img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/93_roman/&logoColor=white" 
         style="height : auto; margin-left : 10px; margin-right : 10px; width:150px; height:35px;"/> <!--Instagram-->
 </a>
+
+<hr />
