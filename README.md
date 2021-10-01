@@ -35,19 +35,19 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <!--Photoshop-->
 
      
-<h4>Want Learn<h4/>
+<h3>Want Learn<h3/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
      
 <hr />
      
-<h4>My Stats<h4/>
+<h3>My Stats<h3/>
 
 ![chan727v's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan727v&show_icons=true&theme=midnight-purple) <!--Stats-->
 
 <hr />
 
-<h4>My Hobby<h4/>
+<h3>My Hobby<h3/>
 
 <a href="https://www.netflix.com/kr/">
 <img src="https://img.shields.io/badge/Netflix-E50914?style=flat&logo=Netflix&logoColor=white" 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <hr />
 
-<h4>Another Page<h4/>
+<h3>Another Page<h3/>
 
 <a href="https://www.instagram.com/93_roman/">
     <img 
